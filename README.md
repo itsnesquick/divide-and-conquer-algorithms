@@ -3,8 +3,8 @@ Welcome to this repository. Here you can find a brief set of divide and conquer 
 
 ## Table of contents
 1. <a href="#what-is-divide-and-conquer">What is Divide and Conquer?</a>
-2. a href="#recurrences">Recurrences</a>
-3. <a href="#technecalities-in-recurrences">Technecalities in recurrences</a>
+2. <a href="#recurrences">Recurrences</a>
+3. <a href="#technicalities-in-recurrences">Technicalities in recurrences</a>
 
 ## What is Divide and Conquer?
 In divide-and-conquer, we solve problems recursively, applying certain steps at each level of the recursion. What are said steps?
@@ -24,7 +24,7 @@ In divide-and-conquer, we solve problems recursively, applying certain steps at 
 
 If that isn't quite the answer to you, here I explain it in a little more detail.
 
-## Technecalities in recurrences
+## Technicalities in recurrences
 In divide-and-conquer, we solve problems recursively, applying certain steps at each level of the recursion. What are said steps?
 
 * **Divide** a problem into a number of subproblems that are smaller instances of the same problem
