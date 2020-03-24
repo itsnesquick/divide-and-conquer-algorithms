@@ -2,9 +2,9 @@
 Welcome to this repository. Here you can find a brief set of divide and conquer algorithms. I hope you can find what you searched or if not that at least some inspiration for your projects etc.
 
 ## Table of contents
-1. [What is Divide and Conquer?][#what-is-divide-and-conquer]
-2. [Recurrences][#recurrences]
-3. [Technecalities in recurrences][#technecalities-in-recurrences]
+1. <a href="#what-is-divide-and-conquer">What is Divide and Conquer?</a>
+2. a href="#recurrences">Recurrences</a>
+3. <a href="#technecalities-in-recurrences">Technecalities in recurrences</a>
 
 ## What is Divide and Conquer?
 In divide-and-conquer, we solve problems recursively, applying certain steps at each level of the recursion. What are said steps?
